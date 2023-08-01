@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521202031261",
+    "project_id": "vehicleefficiencyinterview",
+    "storage_bucket": "vehicleefficiencyinterview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521202031261:android:1614f8c149bbb83a57d274",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_sort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521202031261-f3no6hqbr5upq9eamukngeh9ioo221vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBv8XpHwMZ2GRPf15Aq4EuNpk1sLsExs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521202031261-f3no6hqbr5upq9eamukngeh9ioo221vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
