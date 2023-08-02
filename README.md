@@ -27,20 +27,16 @@ The Vehicle Efficiency Application is a Flutter-based mobile app that helps user
 
 ### Cloning the Repository
 
-To clone the repository and get the source code, run the following command:
-
-```bash
-git clone https://github.com/yourusername/vehicle-efficiency-app.git
-
-### Running the App
-Open the cloned project in your preferred code editor (e.g., Visual Studio Code).
-
-Ensure you have installed the Flutter SDK and set up an emulator or a physical device to run the app.
-
-Run the following command to get the required dependencies:
-```bash
-flutter pub get
-```bash
-flutter run
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vishalranka2003/Vehicle_sort/
+2. Navigate to project directory
+   ```bash
+   cd Vehicle_sort
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+4. Launch the app on your preferred emulator/simulator or physical device using the following command:
+   ```bash
+   flutter run
 
