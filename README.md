@@ -21,14 +21,16 @@ The Vehicle Efficiency Application is a Flutter-based mobile app that helps user
 ![Screenshot 4](screenshots/screenshot4.jpg)
 ![Screenshot 5](screenshots/screenshot5.jpg)
 
-## How to Use
 
 ### Prerequisites
 
 - Flutter SDK (version ^2.5.0)
 - Android Studio or Xcode for emulators/simulators
+- Have made use of Firebase database to store, modify and delete the vehicles data in the application designed.
+  
 
-### Cloning the Repository
+
+## How to Use
 
 1. Clone the repository:
    ```bash
